@@ -1,7 +1,7 @@
 document.addEventListener("DOMContentLoaded", () => {
     // Create a new button element
     const button = document.createElement("button");
-    // Set the button's text content
+
     button.textContent = "Click Me!";
 
     // Add an event listener to the button for the 'click' event
